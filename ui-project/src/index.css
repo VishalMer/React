@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+#intro{
+    text-shadow: 0 2px 2px black;
+}
